@@ -1,5 +1,5 @@
 # PWF_Gt-Hn-CR_LHCb_open-data
-Repository for the Physics Without Frontiers - Guatemala-Honduras-Costa Rica: Reading and manipulating the LHCb open data. Indico website
+Repository for the Physics Without Frontiers - Guatemala-Honduras-Costa Rica: Reading and manipulating the LHCb open data. [Indico website](https://indico.ictp.it/event/10914/)
 
 To get started go to the file Getting_started.pdf, it contains the information about how to create a conda environment where all the python libraries will be installed.
 
