@@ -7,6 +7,6 @@ Once your conda environment is ready, on Tuesday 10 you will find here the file 
 
 ### Complementary Material
 
-[The slides of Gustavo Otero's talks about Standard Model of Particle Physics and CERN](http://users.df.uba.ar/gotero/PWF-2024/)
+[Slides of Gustavo Otero's talks about Standard Model of Particle Physics and CERN](http://users.df.uba.ar/gotero/PWF-2024/)
 
 [Guide slides for the challenges insights with the couches](https://drive.google.com/file/d/1kjIUzI0sJyoWeXfNdGHeljO9uhE9nJHn/view?usp=sharing)
