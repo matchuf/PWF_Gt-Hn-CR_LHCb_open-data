@@ -5,7 +5,7 @@ To get started go to the file Getting_started.pdf, it contains the information a
 
 Once your conda environment is ready, on Tuesday 10 you will find here the file open-data-project-1.1.tar.gz. Download and untar the file, the folder contains several files that you will need to run the main notebook, LHCb_Open_Data_Project_PWF.ipynb. Activate your conda environment, open the notebook and you will find there everything you need to start the hackathon challenge!
 
-In case you are having problems running the notebook from the conda environment, as an alternative you could try to run the notebook LHCb_Open_Data_Project_PWF_withou-root.ipynb in google colab. Support material images and links might not load properly, but you could find all the material in the opendata-project-1.1 folder.
+In case you are having problems running the notebook from the conda environment, as an alternative you could try to run the notebook LHCb_Open_Data_Project_PWF_without-root.ipynb in google colab. Support material images and links might not load properly, but you could find all the material in the opendata-project-1.1 folder.
 
 ### Complementary Material
 
