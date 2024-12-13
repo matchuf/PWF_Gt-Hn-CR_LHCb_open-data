@@ -7,6 +7,8 @@ Once your conda environment is ready, on Tuesday 10 you will find here the file 
 
 In case you are having problems running the notebook from the conda environment, as an alternative you could try to run the notebook LHCb_Open_Data_Project_PWF_without-root.ipynb in google colab. Support material images and links might not load properly, but you could find all the material in the opendata-project-1.1 folder.
 
+You can find the new version of the code open-data-project-1.2.tar.gz, it includes notebooks for the conda environment version and also for colab version. It fixes some errors, thanks to Jorge Cibrian and Sergio Arguedas. 
+
 ### Complementary Material
 
 [Slides of Gustavo Otero's talks about Standard Model of Particle Physics and CERN](http://users.df.uba.ar/gotero/PWF-2024/)
