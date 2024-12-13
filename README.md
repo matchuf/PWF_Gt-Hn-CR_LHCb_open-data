@@ -11,4 +11,12 @@ In case you are having problems running the notebook from the conda environment,
 
 [Slides of Gustavo Otero's talks about Standard Model of Particle Physics and CERN](http://users.df.uba.ar/gotero/PWF-2024/)
 
+[Short biography of the Coaches](https://drive.google.com/file/d/1iFYMt46nnCPRkxGrFG7QLB0Fy2CfBv-r/view?usp=sharing)
+
 [Guide slides for the challenge insights with the couches](https://drive.google.com/file/d/1kjIUzI0sJyoWeXfNdGHeljO9uhE9nJHn/view?usp=sharing)
+
+[Slides of Melissa Cruz's talk about Uncertainties](https://drive.google.com/file/d/1ep43V_w9eTxnwigljf1MgM4bupq79Fz_/view?usp=sharing)
+
+R. Aaij et al. [LHCb], [``Measurements of $CP$ violation in the three-body phase space of charmless $B^{\pm}$ decays,''](https://drive.google.com/file/d/1z3mWjHYd7q7DpOuXImr67THvfhx9KAAs/view?usp=sharing) Phys. Rev. D \textbf{90} (2014) no.11, 112004 doi:10.1103/PhysRevD.90.112004 [arXiv:1408.5373 [hep-ex]].
+
+
