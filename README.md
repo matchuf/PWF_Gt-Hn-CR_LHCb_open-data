@@ -21,4 +21,4 @@ You can find the new version of the code open-data-project-1.2.tar.gz, it includ
 
 R. Aaij et al. [LHCb], ``Measurements of $CP$ violation in the three-body phase space of charmless $B^{\pm}$ decays,'', [Phys. Rev. D 90 (2014) no.11](https://drive.google.com/file/d/1z3mWjHYd7q7DpOuXImr67THvfhx9KAAs/view?usp=sharing), 112004 [arXiv:1408.5373 [hep-ex]].
 
-[Laid presentation about the description of de variables](https://drive.google.com/file/d/1hvK3LRCTlx4RMlYTmgtGptE6AA1e6we-/view?usp=sharing)
+[Laid presentation about the description of the variables](https://drive.google.com/file/d/1hvK3LRCTlx4RMlYTmgtGptE6AA1e6we-/view?usp=sharing)
